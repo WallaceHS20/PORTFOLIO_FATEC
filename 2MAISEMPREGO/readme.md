@@ -15,10 +15,6 @@
 
 <br>
 
-<details>
-
-<summary align=center> VER MAIS DETALHES :information_source: </summary>
-
 <h2> <a name="Objetivo">Objetivo</a> </h2>
 
 #### Após a finalização do projeto pela equipe B1naryDevs:
@@ -254,10 +250,6 @@ public class ConnectionFactory {
       <td>★★★★☆☆</td
     </tr>
  </table>
-</details>
-
-</summary>
-
 </details>
 
 <br>
