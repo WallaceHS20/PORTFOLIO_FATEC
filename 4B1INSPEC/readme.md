@@ -11,10 +11,6 @@
 
 <p align="justify"> desenvolver um sistema abrangente para controlar anomalias identificadas em um Laudo de Inspeção Predial, com funcionalidades-chave como diferenciação de segmentos específicos de um edifício, cadastro de prestadores de serviço, geração eficiente de ordens de serviço e criação de relatórios detalhados.</p>
 
-<details>
-  
-  <summary align=center> VER MAIS DETALHES :information_source: </summary>
-
   <h2> <a name="Objetivo">Objetivo</a> </h2>
 
 #### Após a finalização do projeto pela equipe B1naryDevs:
@@ -281,6 +277,4 @@ async function cadastrarPrestador() {
       <td>★★★★☆☆</td
     </tr>
  </table>
-</details>
-
 </details>
