@@ -1,9 +1,5 @@
 <div class="semestre1">
 
-<div align=center>
-<h1>OTUS PROJECT</h1>
-</div>
-
 <h4> 1º Semestre • <a href="https://github.com/B1naryDevs/API">Repositório Github</a></h4>
 <p align="justify"> Empresa Parceira • <a href="https://fatecsjc-prd.azurewebsites.net">FATEC SJC</a></p>
 
@@ -11,29 +7,21 @@
 
 <p align="justify"> A Otus Project é uma assistente virtual acionada por comando de voz, tendo como público alvo alunos de programação que buscam inovar seus métodos de estudo e organizar seus horários.</p>
 
-<details>
-  
-  <summary align=center> VER MAIS DETALHES :information_source: </summary>
-
 <div align=center>
 
 <br>
 
-[ACESSE](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/1OTUS)
+[SABER MAIS SOBRE O PROJETO OTUS PROJECT](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/1OTUS)
   
 </div>
-  
-</details>
+
+----------------
 
 <br>
 
 <div class="semestre3">
 
-<div align=center>
-<h1>+EMPREGO</h1>
-</div>
-
-<h4> 2º Semestre • <a href="https://github.com/B1nary-Devs/OTUS-PROJECT">Repositório Github</a></h4>
+<h4> 2º Semestre • <a href="https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/2MAISEMPREGO">Repositório Github</a></h4>
 <p align="justify"> Empresa Parceira • <a href="https://www.pro4tech.com.br/">Pro4tech</a></p>
 
 <p align="center"><img src="https://github.com/WallaceHS20/Bertoti/assets/101594950/5dda1466-348d-4d96-9a1d-66a5f5b98854" widht="20%"></img>
@@ -43,27 +31,19 @@
 
 <br>
 
-<details>
-
-<summary align=center> VER MAIS DETALHES :information_source: </summary>
-
 <div align=center>
 
 <br>
 
-[ACESSE](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/2MAISEMPREGO)
+[SABER MAIS SOBRE O PROJETO +EMPREGO](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/2MAISEMPREGO)
   
 </div>
 
-</details>
+----------------
 
 <br>
 
 <div class="semestre3">
-
-<div align=center>
-<h1>ROCK PLANNING</h1>
-</div>
   
 <h4> 3º Semestre • <a href="https://github.com/B1nary-Devs/DOM-ROCK">Repositório Github</a></h4>
 <p align="justify"> Empresa Parceira • <a href="https://www.domrock.net/">DOM ROCK</a></p>
@@ -74,45 +54,31 @@
 
 <br>
 
-<details>
-
-<summary align=center> VER MAIS DETALHES :information_source: </summary>
-
 <div align=center>
 
 <br>
 
-[ACESSE](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/3ROCKPLAN)
+[SABER MAIS SOBRE O PROJETO ROCK PLANNING](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/3ROCKPLAN)
   
 </div>
 
-</details>
+----------------
 
 <br>
 
 <div class="semestre4">
-
-<div align=center>
-<h1>OTUS PROJECT</h1>
-</div>
 
 <h4> 4º Semestre • <a href="https://github.com/B1nary-Devs/JAIA-SOFTWARE">Repositório Github</a></h4>
 <p align="justify"> Empresa Parceira • <a href="https://jaia.software/blog/">Jaia Software</a></p>
 
 <p align="center"><img src="https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/9a081b92-bb7d-4a3f-8b88-f1e68f69848e" widht="20%"></img>
 
-<p align="justify"> desenvolver um sistema abrangente para controlar anomalias identificadas em um Laudo de Inspeção Predial, com funcionalidades-chave como diferenciação de segmentos específicos de um edifício, cadastro de prestadores de serviço, geração eficiente de ordens de serviço e criação de relatórios detalhados.</p>
-
-<details>
-  
-  <summary align=center> VER MAIS DETALHES :information_source: </summary>
+<p align="justify"> A B1nary Inspec é um sistema abrangente para controlar anomalias identificadas em um Laudo de Inspeção Predial, com funcionalidades-chave como diferenciação de segmentos específicos de um edifício, cadastro de prestadores de serviço, geração eficiente de ordens de serviço e criação de relatórios detalhados.</p>
 
 <div align=center>
 
 <br>
 
-[ACESSE](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/4B1INSPEC)
+[SABER MAIS SOBRE O PROJETO B1NARY INSPEC](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/4B1INSPEC)
   
 </div>
-
-</details>
