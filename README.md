@@ -1,6 +1,3 @@
-
-![1º SPRINT - 2908 á 1809 (1)](https://github.com/WallaceHS20/PORTFOLIO_FATEC/assets/101594950/9d23cedc-a15e-405e-8305-40c619710e88)
-
 <div class="semestre1">
 
 <div align=center>
@@ -18,8 +15,14 @@
   
   <summary align=center> VER MAIS DETALHES :information_source: </summary>
 
-  ACESSE: 
+<div align=center>
 
+<br>
+
+[ACESSE](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/1OTUS)
+  
+</div>
+  
 </details>
 
 <br>
@@ -38,14 +41,19 @@
 <p align="justify"> O +Emprego é um sistema Desktop que tem como objetivo realizar o gerenciamento e acompanhamento de processos seletivos de candidatos para vagas de emprego, sendo capaz também de realizar relatórios e análises de aprovação do setor de recursos humanos.
 </p>
 
-
 <br>
 
 <details>
 
 <summary align=center> VER MAIS DETALHES :information_source: </summary>
 
-ACESSE: 
+<div align=center>
+
+<br>
+
+[ACESSE](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/2MAISEMPREGO)
+  
+</div>
 
 </details>
 
@@ -70,7 +78,13 @@ ACESSE:
 
 <summary align=center> VER MAIS DETALHES :information_source: </summary>
 
-ACESSE:
+<div align=center>
+
+<br>
+
+[ACESSE](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/3ROCKPLAN)
+  
+</div>
 
 </details>
 
@@ -93,6 +107,12 @@ ACESSE:
   
   <summary align=center> VER MAIS DETALHES :information_source: </summary>
 
-  ACESSE:
+<div align=center>
+
+<br>
+
+[ACESSE](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/4B1INSPEC)
+  
+</div>
 
 </details>
