@@ -11,10 +11,6 @@
 
 <p align="justify"> A Otus Project é uma assistente virtual acionada por comando de voz, tendo como público alvo alunos de programação que buscam inovar seus métodos de estudo e organizar seus horários.</p>
 
-<details>
-  
-  <summary align=center> VER MAIS DETALHES :information_source: </summary>
-
   <h2> <a name="Objetivo">Objetivo</a> </h2>
 
 #### Após a finalização do projeto pela equipe B1naryDevs:
@@ -150,6 +146,4 @@ def guia_de_estudo():
       <td>★★★★☆☆</td
     </tr>
  </table>
-</details>
-
 </details>
