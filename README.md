@@ -1,3 +1,45 @@
+# Wallace Honorato da Silva
+
+![1º_SPRINT_-_2908_á_1809__6___1_-removebg-preview](https://github.com/user-attachments/assets/3245b895-b27c-4109-9fb5-025aa72e9f85)
+
+Olá, eu sou Wallace Honorato. Minha paixão por tecnologia começou através dos games, o que me levou a me interessar pela área de TI. Em 2019, iniciei meus estudos na ETEC, onde obtive uma sólida base em tecnologia. Após a conclusão desse curso, ingressei na FATEC de São José dos Campos no curso de Tecnologia em Banco de Dados, onde tive a oportunidade de participar de projetos significativos em parceria com empresas do setor de programação.
+
+Durante essa jornada, me apaixonei pelo desenvolvimento de interfaces e decidi me especializar como desenvolvedor front-end, focando em tecnologias modernas como React, Vue.js, e JavaScript. Estou sempre buscando aprender e aplicar as melhores práticas para criar experiências de usuário intuitivas e eficientes.
+
+## Skills :floppy_disk:
+
+<div style="display: inline_block"><br>
+  <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</div>
+  
+  <br>
+
+  <div style="display: inline_block">
+
+  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img align="center" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
+  <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+
+
+  </div>
+
+  <div style="display: inline_block"><br>
+
+  <img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+    
+  </div>
+
 <div class="semestre1">
 
 <h4> 1º Semestre • <a href="https://github.com/B1naryDevs/API">Repositório Github</a></h4>
