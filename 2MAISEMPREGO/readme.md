@@ -4,7 +4,7 @@
 <h1>+EMPREGO</h1>
 </div>
 
-<h4> 2º Semestre • <a href="https://github.com/B1nary-Devs/OTUS-PROJECT">Repositório Github</a></h4>
+<h4> 2º Semestre • <a href="https://github.com/B1naryDevs/API">Repositório Github</a></h4>
 <p align="justify"> Empresa Parceira • <a href="https://www.pro4tech.com.br/">Pro4tech</a></p>
 
 <p align="center"><img src="https://github.com/WallaceHS20/Bertoti/assets/101594950/5dda1466-348d-4d96-9a1d-66a5f5b98854" widht="20%"></img>
