@@ -101,6 +101,6 @@ A B1nary Tecsus é um sistema de análise e exibição dos dados de faturas de e
 
 <br>
 
-[SABER MAIS SOBRE O PROJETO B1NARY TECSUS]([https://github.com/B1nary-Devs/Tecsus](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/5B1TECSUS)
+[SABER MAIS SOBRE O PROJETO B1NARY TECSUS](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/5B1TECSUS)
   
 </div>
