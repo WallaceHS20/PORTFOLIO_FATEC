@@ -82,3 +82,25 @@
 [SABER MAIS SOBRE O PROJETO B1NARY INSPEC](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/4B1INSPEC)
   
 </div>
+
+----------------
+
+<br>
+
+<div class="semestre5">
+
+<h4> 5º Semestre • <a href="https://github.com/B1nary-Devs/Tecsus">Repositório Github</a></h4>
+<p align="justify"> Empresa Parceira • <a href="https://tecsus.com.br">Tecsus</a></p>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/caf66ca0-9d6c-4d57-a555-887bdf05cdb2" widht="20%"></img>
+
+<p align="justify"> 
+A B1nary Tecsus é um sistema de análise e exibição dos dados de faturas de energia, água e gás que inclui a tratativa dos dados para garantir integridade e consistência das informações dos contratos e contas. Adicionalmente com o desenvolvimento de um dashboard interativo que permitirá métricas detalhadas, acompanhamento dos contratos, e aplicação de filtros específicos para análises precisas. A ferramenta também oferecerá relatórios detalhados de consumo em diferentes períodos, ajudando a identificar padrões e apoiar decisões estratégicas. Além disso, serão incluídos alertas automáticos para detectar consumo acima da média, identificando anomalias e oportunidades de otimização.</p>
+
+<div align=center>
+
+<br>
+
+[SABER MAIS SOBRE O PROJETO B1NARY TECSUS]([https://github.com/B1nary-Devs/Tecsus](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/5B1TECSUS))
+  
+</div>
