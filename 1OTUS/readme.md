@@ -4,7 +4,7 @@
 <h1>OTUS PROJECT</h1>
 </div>
 
-<h4> 1º Semestre • <a href="https://github.com/B1naryDevs/API">Repositório Github</a></h4>
+<h4> 1º Semestre • <a href="https://github.com/B1nary-Devs/OTUS-PROJECT">Repositório Github</a></h4>
 <p align="justify"> Empresa Parceira • <a href="https://fatecsjc-prd.azurewebsites.net">FATEC SJC</a></p>
 
 <p align="center"><img src="https://github.com/WallaceHS20/Bertoti/assets/101594950/2858b006-347d-4796-9a4b-c5edb0c4ea19" widht="20%"></img>
