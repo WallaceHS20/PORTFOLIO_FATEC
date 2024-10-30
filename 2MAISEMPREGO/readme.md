@@ -17,7 +17,6 @@
 
 <h2> <a name="Objetivo">Objetivo</a> </h2>
 
-#### Após a finalização do projeto pela equipe B1naryDevs:
 * O Administrador é capaz de publicar vagas de emprego no sistema;
 * O usuário é capaz de se candidatar as vagas de emprego cadastradas no sistema;
 * O Administrador conseguirá monitorar as aprovações e reprovações das vagas através de um Dashboard;
