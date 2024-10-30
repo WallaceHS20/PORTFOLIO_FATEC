@@ -99,7 +99,10 @@ def guia_de_estudo():
 </details>
 
 <h2>Conhecimentos Obtidos</h2>
-<p align="justify">Essa experiência multifacetada me proporcionou uma compreensão abrangente do ciclo de vida do desenvolvimento de software, desde a gestão ágil até a implementação eficaz no front-end. Estou comprometido em continuar trazendo meu conjunto diversificado de habilidades para projetos futuros.</p>
+<p align="justify">
+  No primeiro semestre, tive a oportunidade de participar pela primeira vez de um grande projeto em equipe, utilizando metodologias ágeis e práticas de versionamento com Git. Essa experiência foi fundamental para desenvolver minhas habilidades em colaboração, organização de tarefas e adaptabilidade dentro de um ambiente de desenvolvimento ágil. Compreendi melhor o ciclo de vida do desenvolvimento de software, desde a divisão de tarefas até a integração e o versionamento do código. 
+</p>
+
 <h3>Hard Skills </h3>
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
