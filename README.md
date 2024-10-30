@@ -59,9 +59,15 @@ Durante essa jornada, me apaixonei pelo desenvolvimento de interfaces e decidi m
 
 ----------------
 
+
+
+
+
+
+
 <br>
 
-<div class="semestre3">
+<div class="semestre2">
 
 <h4> 2º Semestre • <a href="https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/2MAISEMPREGO">Repositório Github</a></h4>
 <p align="justify"> Empresa Parceira • <a href="https://www.pro4tech.com.br/">Pro4tech</a></p>
@@ -82,6 +88,10 @@ Durante essa jornada, me apaixonei pelo desenvolvimento de interfaces e decidi m
 </div>
 
 ----------------
+
+
+
+
 
 <br>
 
@@ -106,6 +116,11 @@ Durante essa jornada, me apaixonei pelo desenvolvimento de interfaces e decidi m
 
 ----------------
 
+
+
+
+
+
 <br>
 
 <div class="semestre4">
@@ -126,6 +141,10 @@ Durante essa jornada, me apaixonei pelo desenvolvimento de interfaces e decidi m
 </div>
 
 ----------------
+
+
+
+
 
 <br>
 
