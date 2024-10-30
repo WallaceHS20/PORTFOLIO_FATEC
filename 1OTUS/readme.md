@@ -148,3 +148,6 @@ def guia_de_estudo():
 </table>
 
 </details>
+
+-------------------
+[RETORNAR A PÁGINA PRINCIPAL](https://github.com/WallaceHS20/PORTFOLIO_FATEC)
