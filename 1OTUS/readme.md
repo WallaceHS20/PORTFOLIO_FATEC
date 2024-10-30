@@ -111,12 +111,12 @@ def guia_de_estudo():
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Lógica de Programação</td>
-      <td>★★★★☆☆</td>
+      <td>Python</td>
+      <td>Sei fazer com Autonomia</td>
     </tr>
     <tr>
-      <td>Python</td>
-      <td>★★★★★★</td>
+      <td>Git</td>
+      <td>Sei fazer com Ajuda</td>
     </tr>
   </table>
 </details>
@@ -124,26 +124,27 @@ def guia_de_estudo():
 <details>
 <summary><b>Clique para ver a lista de soft skills</b></summary>
   <br>
-  <table align="center">
-    <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Proatividade</td>
-      <td>★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Visão de Negócio</td>
-      <td>★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Comunicação</td>
-      <td>★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Organização e Planejamento</td>
-      <td>★★★★☆☆</td
-    </tr>
- </table>
+  <table border="1" cellspacing="0" cellpadding="8">
+  <tr>
+    <th style="background-color: #dce6f1;">Habilidade</th>
+    <th style="background-color: #dce6f1;">Descrição</th>
+  </tr>
+  <tr>
+    <td style="background-color: #f2f2f2;">Proatividade</td>
+    <td>Precisei tomar iniciativas para antecipar problemas e propor soluções antes que surgissem.</td>
+  </tr>
+  <tr>
+    <td style="background-color: #f2f2f2;">Visão de Negócio</td>
+    <td>Precisei entender o impacto das minhas ações no negócio e alinhar minhas atividades com os objetivos estratégicos da empresa.</td>
+  </tr>
+  <tr>
+    <td style="background-color: #f2f2f2;">Comunicação</td>
+    <td>Precisei comunicar de forma clara e eficaz com a equipe para alinhar expectativas e compartilhar informações importantes.</td>
+  </tr>
+  <tr>
+    <td style="background-color: #f2f2f2;">Organização e Planejamento</td>
+    <td>Precisei planejar e organizar minhas tarefas para cumprir prazos e garantir a eficiência no desenvolvimento do projeto.</td>
+  </tr>
+</table>
+
 </details>
