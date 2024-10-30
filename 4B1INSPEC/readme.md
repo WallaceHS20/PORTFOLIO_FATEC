@@ -9,14 +9,13 @@
 
 <p align="center"><img src="https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/9a081b92-bb7d-4a3f-8b88-f1e68f69848e" widht="20%"></img>
 
-<p align="justify"> desenvolver um sistema abrangente para controlar anomalias identificadas em um Laudo de Inspeção Predial, com funcionalidades-chave como diferenciação de segmentos específicos de um edifício, cadastro de prestadores de serviço, geração eficiente de ordens de serviço e criação de relatórios detalhados.</p>
+<p align="justify"> A B1 Inspec é uma solução completa para controle e reporte de anomalias detectadas em Laudos de Inspeção Predial. O sistema oferece funcionalidades essenciais, incluindo segmentação precisa de áreas específicas do edifício, cadastro de prestadores de serviço, geração ágil de ordens de serviço e criação de relatórios detalhados, otimizando a gestão e a manutenção predial.</p>
 
   <h2> <a name="Objetivo">Objetivo</a> </h2>
 
-#### Após a finalização do projeto pela equipe B1naryDevs:
-* O sistema será capaz fornecer laudos técnicos prediais.
-* O sistema será fornecer automatizar tarefas acelerando a gestão de contratos empresariais
-* O cliente receberá por e-mail o resultado de seus laudos
+* O sistema realiza a emissão de laudos técnicos prediais, fornecendo análises detalhadas e precisas sobre as condições das estruturas.
+* O sistema automatiza tarefas administrativas, agilizando a gestão de contratos empresariais e reduzindo o tempo necessário para cada processo.
+* O cliente recebe automaticamente por e-mail os resultados de seus laudos, garantindo praticidade e rapidez na obtenção das informações.
   
 <br>
 
@@ -231,7 +230,11 @@ async function cadastrarPrestador() {
 </details>
 
 <h2>Conhecimentos Obtidos</h2>
-<p align="justify">Essa experiência multifacetada me proporcionou uma compreensão abrangente do ciclo de vida do desenvolvimento de software, desde a gestão ágil até a implementação eficaz no front-end. Estou comprometido em continuar trazendo meu conjunto diversificado de habilidades para projetos futuros.</p>
+<p align="justify">
+  No quarto semestre, tive meu primeiro contato com o front-end avançado, especialmente na criação de componentes, o que foi uma experiência transformadora para mim. Esse aprendizado permitiu que eu entendesse melhor a modularidade e a reutilização de código, conceitos essenciais para construir interfaces escaláveis e organizadas.
+</p>
+
+
 <h3>Hard Skills </h3>
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
@@ -243,11 +246,11 @@ async function cadastrarPrestador() {
     </tr>
     <tr>
       <td>Typescript</td>
-      <td>★★★★★☆</td>
+      <td>Sei fazer com Ajuda</td>
     </tr>
     <tr>
       <td>VueJS</td>
-      <td>★★★★☆☆</td>
+      <td>Sei fazer com Ajuda</td>
     </tr>
   </table>
 </details>
@@ -255,26 +258,27 @@ async function cadastrarPrestador() {
 <details>
 <summary><b>Clique para ver a lista de soft skills</b></summary>
   <br>
-  <table align="center">
+  <table align="center" border="1" cellspacing="0" cellpadding="8">
     <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
+      <th width="300px" style="background-color: #dce6f1;">Habilidade</th>
+      <th width="300px" style="background-color: #dce6f1;">Descrição</th>
     </tr>
     <tr>
-      <td>Proatividade</td>
-      <td>★★★★☆☆</td>
+      <td style="background-color: #f2f2f2;">Gestão de Tempo</td>
+      <td>Durante os projetos, precisei gerenciar e priorizar tarefas de forma eficaz para cumprir prazos e garantir a produtividade da equipe.</td>
     </tr>
     <tr>
-      <td>Visão de Negócio</td>
-      <td>★★★★☆☆</td>
+      <td style="background-color: #f2f2f2;">Resolução de Problemas</td>
+      <td>Fui desafiado a resolver problemas técnicos e operacionais de maneira criativa, buscando sempre a melhor solução para o andamento do projeto.</td>
     </tr>
     <tr>
-      <td>Comunicação</td>
-      <td>★★★★☆☆</td>
+      <td style="background-color: #f2f2f2;">Trabalho em Equipe</td>
+      <td>Colaborei ativamente com a equipe, garantindo comunicação aberta e eficiente para alcançar os objetivos comuns.</td>
     </tr>
     <tr>
-      <td>Organização e Planejamento</td>
-      <td>★★★★☆☆</td
+      <td style="background-color: #f2f2f2;">Aprendizagem Contínua</td>
+      <td>Estive sempre disposto a aprender novas tecnologias e aprimorar minhas habilidades para me adaptar às demandas do projeto.</td>
     </tr>
- </table>
+</table>
+
 </details>
