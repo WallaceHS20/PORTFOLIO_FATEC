@@ -13,7 +13,6 @@
 
   <h2> <a name="Objetivo">Objetivo</a> </h2>
 
-#### Após a finalização do projeto pela equipe B1naryDevs:
 * O sistema será capaz de responder a comandos de voz ou sons específicos
 * O sistema será capaz de auxiliar o aluno em sua rotina de estudos.
 * O usuário conseguirá obter artigos com facilidades
