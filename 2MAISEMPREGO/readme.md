@@ -201,9 +201,12 @@ public class ConnectionFactory {
 
 </details>
 
-
 <h2>Conhecimentos Obtidos</h2>
-<p align="justify">Essa experiência multifacetada me proporcionou uma compreensão abrangente do ciclo de vida do desenvolvimento de software.</p>
+<p align="justify">
+  Em meu segundo semestre, aprendi sobre os impactos significativos que nossas decisões têm no produto final e a importância da arquitetura e da modelagem de banco de dados para o sucesso do projeto. Essa experiência ampliou minha compreensão sobre como cada escolha técnica pode influenciar tanto a eficiência quanto a escalabilidade do sistema, fortalecendo minha capacidade de planejar e executar soluções que atendam aos objetivos do projeto de maneira eficaz.
+</p>
+
+
 <h3>Hard Skills </h3>
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
