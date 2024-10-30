@@ -204,7 +204,7 @@ public class ConnectionFactory {
 
 
 <h2>Conhecimentos Obtidos</h2>
-<p align="justify">Essa experiência multifacetada me proporcionou uma compreensão abrangente do ciclo de vida do desenvolvimento de software, desde a gestão ágil até a implementação eficaz no front-end. Estou comprometido em continuar trazendo meu conjunto diversificado de habilidades para projetos futuros.</p>
+<p align="justify">Essa experiência multifacetada me proporcionou uma compreensão abrangente do ciclo de vida do desenvolvimento de software.</p>
 <h3>Hard Skills </h3>
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
@@ -216,11 +216,11 @@ public class ConnectionFactory {
     </tr>
     <tr>
       <td>Java</td>
-      <td>★★★★☆☆</td>
+      <td>Sei fazer com Ajuda</td>
     </tr>
     <tr>
       <td>MySQL</td>
-      <td>★★★★★☆</td>
+      <td>Sei fazer com Ajuda</td>
     </tr>
   </table>
 </details>
@@ -228,28 +228,21 @@ public class ConnectionFactory {
 <details>
 <summary><b>Clique para ver a lista de soft skills</b></summary>
   <br>
-  <table align="center">
-    <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Proatividade</td>
-      <td>★★★☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Visão de Negócio</td>
-      <td>★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Comunicação</td>
-      <td>★★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Organização e Planejamento</td>
-      <td>★★★★☆☆</td
-    </tr>
- </table>
+  <table border="1" cellspacing="0" cellpadding="8">
+  <tr>
+    <th style="background-color: #dce6f1;">Habilidade</th>
+    <th style="background-color: #dce6f1;">Descrição</th>
+  </tr>
+  <tr>
+    <td style="background-color: #f2f2f2;">Visão de Negócio</td>
+    <td>Precisei entender o impacto das minhas ações no negócio e alinhar minhas atividades com os objetivos estratégicos com o auxílio do PO.</td>
+  </tr>
+  <tr>
+    <td style="background-color: #f2f2f2;">Comunicação</td>
+    <td>Precisei comunicar de forma clara e eficaz com a equipe para alinhar expectativas e compartilhar informações importantes.</td>
+  </tr>
+</table>
+
 </details>
 
 <br>
