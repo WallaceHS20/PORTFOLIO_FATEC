@@ -15,7 +15,6 @@
 
 <h2> <a name="Objetivo">Objetivo</a> </h2>
 
-#### Após a finalização do projeto pela equipe B1naryDevs:
 * O Administrador é capaz de cadastrar vendedores e a carteira de clientes;
 * O Vendedor conseguirá planejar as vendas para seus clientes;
 * O Administrador conseguirá monitorar as vendas de todos os vendedores através de um Dashboard;
@@ -204,24 +203,20 @@ async function buscarVendedores() {
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Java</td>
-      <td>★★★☆☆☆</td>
-    </tr>
-    <tr>
       <td>HTML</td>
-      <td>★★★★★☆</td>
+      <td>Sei fazer com Ajuda</td>
     </tr>
         <tr>
       <td>CSS</td>
-      <td>★★★★★☆</td>
+      <td>Sei fazer com Ajuda</td>
     </tr>
         <tr>
       <td>JavaScript</td>
-      <td>★★★☆☆☆</td>
+      <td>Sei fazer com Ajuda</td>
     </tr>
     <tr>
       <td>MySQL</td>
-      <td>★★★☆☆☆</td>
+      <td>Sei fazer com Autonomia</td>
     </tr>
   </table>
 </details>
@@ -229,30 +224,35 @@ async function buscarVendedores() {
 <details>
 <summary><b>Clique para ver a lista de soft skills</b></summary>
   <br>
-  <table align="center">
+  <table align="center" border="1" cellspacing="0" cellpadding="8">
     <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
+      <th width="300px" style="background-color: #dce6f1;">Habilidade</th>
+      <th width="300px" style="background-color: #dce6f1;">Classificação</th>
     </tr>
     <tr>
-      <td>Proatividade</td>
-      <td>★★★☆☆☆</td>
+      <td style="background-color: #f2f2f2;">Proatividade</td>
+      <td>Boa capacidade de agir por iniciativa própria, antecipando demandas e resolvendo questões antes que se tornem problemas.</td>
     </tr>
     <tr>
-      <td>Visão de Negócio</td>
-      <td>★★☆☆☆☆</td>
+      <td style="background-color: #f2f2f2;">Visão de Negócio</td>
+      <td>Compreensão básica dos objetivos estratégicos, com foco no impacto das ações para o negócio.</td>
     </tr>
     <tr>
-      <td>Comunicação</td>
-      <td>★★★★☆☆</td>
+      <td style="background-color: #f2f2f2;">Comunicação</td>
+      <td>Comunicação clara e eficaz, essencial para alinhar informações e colaborar com a equipe.</td>
     </tr>
     <tr>
-      <td>Empatia</td>
-      <td>★★★★★☆</td>
+      <td style="background-color: #f2f2f2;">Gestão de Equipe e Tarefas</td>
+      <td>Capacidade de organizar e liderar tarefas dentro da equipe, promovendo cooperação e eficiência.</td>
     </tr>
     <tr>
-      <td>Organização e Planejamento</td>
-      <td>★★★★☆☆</td
+      <td style="background-color: #f2f2f2;">Aprendizagem Contínua</td>
+      <td>Dedicação ao desenvolvimento profissional e aprendizado de novas habilidades para se adaptar a novas demandas.</td>
     </tr>
-  </table>
+    <tr>
+      <td style="background-color: #f2f2f2;">Comprometimento</td>
+      <td>Alto nível de comprometimento com os objetivos da equipe e da empresa, focando na realização das metas.</td>
+    </tr>
+</table>
+
 </details>
