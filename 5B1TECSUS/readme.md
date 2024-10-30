@@ -107,11 +107,11 @@ describe('SUITE DE TESTES DA FUNCAO LOGIN', () => {
     </tr>
     <tr>
       <td>JavaScript</td>
-      <td>★★★★★☆</td>
+      <td>Sei fazer com Ajuda</td>
     </tr>
     <tr>
       <td>React</td>
-      <td>★★★★☆☆</td>
+      <td>Sei fazer com Ajuda</td>
     </tr>
   </table>
 </details>
@@ -119,26 +119,27 @@ describe('SUITE DE TESTES DA FUNCAO LOGIN', () => {
 <details>
 <summary><b>Clique para ver a lista de soft skills</b></summary>
   <br>
-  <table align="center">
+<table align="center" border="1" cellspacing="0" cellpadding="8">
     <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
+      <th width="300px" style="background-color: #dce6f1;">Habilidade</th>
+      <th width="300px" style="background-color: #dce6f1;">Descrição</th>
     </tr>
     <tr>
-      <td>Proatividade</td>
-      <td>★★★★☆☆</td>
+      <td style="background-color: #f2f2f2;">Gestão de Tempo</td>
+      <td>Durante os projetos, precisei gerenciar e priorizar tarefas de forma eficaz para cumprir prazos e garantir a produtividade da equipe.</td>
     </tr>
     <tr>
-      <td>Visão de Negócio</td>
-      <td>★★★★☆☆</td>
+      <td style="background-color: #f2f2f2;">Resolução de Problemas</td>
+      <td>Fui desafiado a resolver problemas técnicos e operacionais de maneira criativa, buscando sempre a melhor solução para o andamento do projeto.</td>
     </tr>
     <tr>
-      <td>Comunicação</td>
-      <td>★★★★☆☆</td>
+      <td style="background-color: #f2f2f2;">Trabalho em Equipe</td>
+      <td>Colaborei ativamente com a equipe, garantindo comunicação aberta e eficiente para alcançar os objetivos comuns.</td>
     </tr>
     <tr>
-      <td>Organização e Planejamento</td>
-      <td>★★★★☆☆</td
+      <td style="background-color: #f2f2f2;">Aprendizagem Contínua</td>
+      <td>Estive sempre disposto a aprender novas tecnologias e aprimorar minhas habilidades para me adaptar às demandas do projeto.</td>
     </tr>
- </table>
+</table>
+
 </details>
