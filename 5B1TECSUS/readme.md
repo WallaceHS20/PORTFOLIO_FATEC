@@ -11,7 +11,17 @@
 
 <p align="justify"> A B1nary Tecsus é um sistema de análise e exibição dos dados de faturas de energia, água e gás que inclui a tratativa dos dados para garantir integridade e consistência das informações dos contratos e contas. Adicionalmente com o desenvolvimento de um dashboard interativo que permitirá métricas detalhadas, acompanhamento dos contratos, e aplicação de filtros específicos para análises precisas. A ferramenta também oferecerá relatórios detalhados de consumo em diferentes períodos, ajudando a identificar padrões e apoiar decisões estratégicas. Além disso, serão incluídos alertas automáticos para detectar consumo acima da média, identificando anomalias e oportunidades de otimização.</p></p>
 
-  <h2> <a name="Objetivo">Objetivo</a> </h2>
+<h2> <a name="Objetivo">Visão do Projeto</a> </h2>
+
+<div align=center>
+  
+![B1nary-Devs-Opera-2024-11-21-16-02-10](https://github.com/user-attachments/assets/aa3a7e4e-cacb-47bd-b7ac-cccfd32cb020)
+
+</div>
+
+<br>
+
+<h2> <a name="Objetivo">Objetivo</a> </h2>
 
 #### Após a finalização do projeto pela equipe B1naryDevs:
 * O sistema analisará dados de consumo de energia, água e gás, garantindo a integridade das informações.
@@ -143,3 +153,6 @@ describe('SUITE DE TESTES DA FUNCAO LOGIN', () => {
 </table>
 
 </details>
+
+-------------------
+[RETORNAR A PÁGINA PRINCIPAL](https://github.com/WallaceHS20/PORTFOLIO_FATEC)
