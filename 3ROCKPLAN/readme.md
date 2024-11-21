@@ -13,6 +13,16 @@
 
 <br>
 
+<h2> <a name="Objetivo">Visão do Projeto</a> </h2>
+
+<div align=center>
+  
+![Publicação _ LinkedIn - Opera 2024-11-21 15-36-47](https://github.com/user-attachments/assets/b8984f6c-0686-4cac-86f6-02d8c5d5fef8)
+
+</div>
+
+<br>
+
 <h2> <a name="Objetivo">Objetivo</a> </h2>
 
 * O Administrador é capaz de cadastrar vendedores e a carteira de clientes;
@@ -35,7 +45,7 @@
   
 <br>
   
-<h3>Minhas Contribuições</h3>
+<h2>Minhas Contribuições</h2>
   
 > Contribuí ativamente como desenvolvedor front-end, desempenhando um papel crucial na arquitetura e estilização das páginas. Minhas contribuições incluíram:
 
@@ -256,3 +266,6 @@ async function buscarVendedores() {
 </table>
 
 </details>
+
+-------------------
+[RETORNAR A PÁGINA PRINCIPAL](https://github.com/WallaceHS20/PORTFOLIO_FATEC)
