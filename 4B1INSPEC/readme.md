@@ -11,7 +11,17 @@
 
 <p align="justify"> A B1 Inspec é uma solução completa para controle e reporte de anomalias detectadas em Laudos de Inspeção Predial. O sistema oferece funcionalidades essenciais, incluindo segmentação precisa de áreas específicas do edifício, cadastro de prestadores de serviço, geração ágil de ordens de serviço e criação de relatórios detalhados, otimizando a gestão e a manutenção predial.</p>
 
-  <h2> <a name="Objetivo">Objetivo</a> </h2>
+<h2> <a name="Objetivo">Visão do Projeto</a> </h2>
+
+<div align=center>
+  
+![Publicação _ LinkedIn - Opera 2024-11-21 15-36-47](https://github.com/user-attachments/assets/b8984f6c-0686-4cac-86f6-02d8c5d5fef8)
+
+</div>
+
+<br>
+
+<h2> <a name="Objetivo">Objetivo</a> </h2>
 
 * O sistema realiza a emissão de laudos técnicos prediais, fornecendo análises detalhadas e precisas sobre as condições das estruturas.
 * O sistema automatiza tarefas administrativas, agilizando a gestão de contratos empresariais e reduzindo o tempo necessário para cada processo.
@@ -31,7 +41,7 @@
   
 <br>
   
-<h3>Minhas Contribuições</h3>
+<h2>Minhas Contribuições</h2>
 
  > Contribuí ativamente como desenvolvedor front-end na construção da arquitetura e design da aplicação, colaborando com a equipe para criar uma estrutura escalável e eficiente.
 
@@ -282,3 +292,6 @@ async function cadastrarPrestador() {
 </table>
 
 </details>
+
+-------------------
+[RETORNAR A PÁGINA PRINCIPAL](https://github.com/WallaceHS20/PORTFOLIO_FATEC)  
