@@ -19,7 +19,7 @@
   
 <br>
 
-<h2> <a name="Objetivo">Aplicação</a> </h2>
+<h2> <a name="Objetivo">Visão do Projeto</a> </h2>
 
 ![Inserir um título](https://github.com/user-attachments/assets/3c9b2a48-584c-4e73-b91e-ed1d35dee26e)
   
