@@ -15,6 +15,18 @@
 
 <br>
 
+
+
+<h2> <a name="Objetivo">Visão do Projeto</a> </h2>
+
+<div align=center>
+  
+![2022-11-27 22-28-51_Trim](https://user-images.githubusercontent.com/101594950/204175305-4f07c392-bbe2-4053-82d9-93e94c491654.gif)
+
+</div>
+
+<br>
+
 <h2> <a name="Objetivo">Objetivo</a> </h2>
 
 * O Administrador é capaz de publicar vagas de emprego no sistema;
@@ -34,7 +46,7 @@
   
 <br>
   
-<h3>Minhas Contribuições</h3>
+<h2>Minhas Contribuições</h2>
 
  > Contribuí ativamente com a arquitetura e modelagem do banco de dados aplicando os conceitos básicos de cardinalidade e realização de consultas avançadas.
 
@@ -248,3 +260,6 @@ public class ConnectionFactory {
 </details>
 
 <br>
+
+-------------------
+[RETORNAR A PÁGINA PRINCIPAL](https://github.com/WallaceHS20/PORTFOLIO_FATEC)
