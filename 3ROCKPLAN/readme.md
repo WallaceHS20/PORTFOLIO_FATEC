@@ -17,7 +17,7 @@
 
 <div align=center>
   
-![Publicação _ LinkedIn - Opera 2024-11-21 15-36-47](https://github.com/user-attachments/assets/b8984f6c-0686-4cac-86f6-02d8c5d5fef8)
+![dashboard](https://github.com/B1nary-Devs-3-Semestre/DOM-ROCK/assets/101421659/b8670574-138e-4850-a426-94e4ca85456c)
 
 </div>
 
