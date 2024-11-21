@@ -11,11 +11,17 @@
 
 <p align="justify"> A Otus Project é uma assistente virtual acionada por comando de voz, tendo como público alvo alunos de programação que buscam inovar seus métodos de estudo e organizar seus horários.</p>
 
-  <h2> <a name="Objetivo">Objetivo</a> </h2>
+<h2> <a name="Objetivo">Objetivo</a> </h2>
 
 * O sistema será capaz de responder a comandos de voz ou sons específicos
 * O sistema será capaz de auxiliar o aluno em sua rotina de estudos.
 * O usuário conseguirá obter artigos com facilidades
+  
+<br>
+
+<h2> <a name="Objetivo">Aplicação</a> </h2>
+
+![Inserir um título](https://github.com/user-attachments/assets/3c9b2a48-584c-4e73-b91e-ed1d35dee26e)
   
 <br>
 
@@ -27,12 +33,12 @@
   
 <br>
   
-<h3>Minhas Contribuições</h3>
+<h2>Minhas Contribuições</h2>
 
- > Contribuí ativamente com desenvolvimento de funcionalidades do sistema e interatividade do usuário.
+ > Atuei de forma significativa no desenvolvimento de funcionalidades do sistema, focando na eficiência e na melhoria da experiência de interatividade para o usuário.
 
 ## 1. **Desenvolvimento de funcionalidades do sistema**
-   - Contribuí ativamente com o desenvolvimento de funcionalidades de interatividade com usuário.
+   - Contribuí ativamente com desenvolvimento de funcionalidades do sistema e interatividade do usuário. 
 
 <details>
   <summary>Detalhes</summary>
@@ -75,7 +81,7 @@ def consult_art():
 </details>
 
 ## 2. **Execução de funcionalidades em Thread**
-   - Contribuí ativamente com o desenvolvimento de funcionalidades de interatividade com usuário.
+   - Contribuí ativamente para o desenvolvimento de funcionalidades em thread, permitindo a execução simultânea de tarefas e otimizando a interatividade com o usuário.
 
 <details>
   <summary>Detalhes</summary>
