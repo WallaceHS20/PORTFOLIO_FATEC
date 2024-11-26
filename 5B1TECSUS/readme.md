@@ -46,7 +46,7 @@
   
 <br>
   
-<h3>Minhas Contribuições</h3>
+<h2>Minhas Contribuições</h2>
 
  > Contribuí ativamente como desenvolvedor front-end na construção da arquitetura e design da aplicação, colaborando com a equipe para criar uma estrutura escalável e eficiente.
 
