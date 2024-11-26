@@ -15,7 +15,7 @@
 
 <div align=center>
   
-![B1nary-Devs-Opera-2024-11-21-16-02-10](https://github.com/user-attachments/assets/aa3a7e4e-cacb-47bd-b7ac-cccfd32cb020)
+![ooooo](https://github.com/user-attachments/assets/d4a7f745-1997-45d2-b101-eabfb67ece84)
 
 </div>
 
