@@ -182,6 +182,6 @@ Binary Credi é um sistema inovador de pontuação e painel para ativos financei
 
 <br>
 
-[SABER MAIS SOBRE O PROJETO B1NARY CREDI](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/5B1TECSUS)
+[SABER MAIS SOBRE O PROJETO B1NARY CREDI](https://github.com/WallaceHS20/PORTFOLIO_FATEC/tree/main/6B1CREDI)
   
 </div>
