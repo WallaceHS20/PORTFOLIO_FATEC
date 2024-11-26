@@ -51,7 +51,7 @@
   
 <br>
   
-<h3>Minhas Contribuições</h3>
+<h2>Minhas Contribuições</h2>
 
  > Desempenhei um papel essencial como desenvolvedor front-end, participando do planejamento e implementação da arquitetura e do design da aplicação. Trabalhei em conjunto com a equipe para desenvolver uma estrutura eficiente e com alta capacidade de escalabilidade.
 
