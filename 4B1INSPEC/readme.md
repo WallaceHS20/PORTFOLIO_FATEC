@@ -1,7 +1,7 @@
 <div class="semestre4">
 
 <div align=center>
-<h1>B1nary Inspec</h1>
+<h1>B1NARY INSPECT</h1>
 </div>
 
 <h4> 4º Semestre • <a href="https://github.com/B1nary-Devs/JAIA-SOFTWARE">Repositório Github</a></h4>
